@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/dempReactApp/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/dempReactApp/static/js/main.f7b5819c.chunk.js",
-    "main.js.map": "/dempReactApp/static/js/main.f7b5819c.chunk.js.map",
-    "runtime-main.js": "/dempReactApp/static/js/runtime-main.e4c520b3.js",
-    "runtime-main.js.map": "/dempReactApp/static/js/runtime-main.e4c520b3.js.map",
-    "static/js/2.62f45acb.chunk.js": "/dempReactApp/static/js/2.62f45acb.chunk.js",
-    "static/js/2.62f45acb.chunk.js.map": "/dempReactApp/static/js/2.62f45acb.chunk.js.map",
-    "static/js/3.e8160689.chunk.js": "/dempReactApp/static/js/3.e8160689.chunk.js",
-    "static/js/3.e8160689.chunk.js.map": "/dempReactApp/static/js/3.e8160689.chunk.js.map",
-    "index.html": "/dempReactApp/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/dempReactApp/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.62f45acb.chunk.js.LICENSE.txt": "/dempReactApp/static/js/2.62f45acb.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/dempReactApp/static/media/logo.6ce24c58.svg"
+    "main.css": "/demoReactApp/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/demoReactApp/static/js/main.f7b5819c.chunk.js",
+    "main.js.map": "/demoReactApp/static/js/main.f7b5819c.chunk.js.map",
+    "runtime-main.js": "/demoReactApp/static/js/runtime-main.45103f46.js",
+    "runtime-main.js.map": "/demoReactApp/static/js/runtime-main.45103f46.js.map",
+    "static/js/2.62f45acb.chunk.js": "/demoReactApp/static/js/2.62f45acb.chunk.js",
+    "static/js/2.62f45acb.chunk.js.map": "/demoReactApp/static/js/2.62f45acb.chunk.js.map",
+    "static/js/3.e8160689.chunk.js": "/demoReactApp/static/js/3.e8160689.chunk.js",
+    "static/js/3.e8160689.chunk.js.map": "/demoReactApp/static/js/3.e8160689.chunk.js.map",
+    "index.html": "/demoReactApp/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/demoReactApp/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.62f45acb.chunk.js.LICENSE.txt": "/demoReactApp/static/js/2.62f45acb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/demoReactApp/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e4c520b3.js",
+    "static/js/runtime-main.45103f46.js",
     "static/js/2.62f45acb.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.f7b5819c.chunk.js"
